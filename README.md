@@ -39,8 +39,14 @@ The data is validated through multiple people on Kaggle using the data to comple
 <br> Playing - How many people are currently playing the game 
 <br> Backlogs - How many people have the game in their backlog 
 <br> Wishlist - How many people the game in their wishlist
+## If there are set variable options in your dataset, what are thier definitions? 
+Not applicable
 
 ## What are the regulations to using the data? 
 The data base is open source. 
+
+## If you are referencing sources, be sure to include citations/references as needed.
+Not applicable
+
 
 
