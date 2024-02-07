@@ -26,11 +26,11 @@ There was no specific formula it was formatted to be easy to read and simple to 
 The data is validated through multiple people on Kaggle using the data to complete their own analysis on the data. However, the data is expected to never be updated.  
 
 ## What are the definitions for the column names? Include all columns in your dataset.​
-x - The index of the variable 
-title - The title of the game
-release_date - When the game was released 
-team - The developers of the game
-rating - What players rated the game
+<br> x - The index of the variable 
+<br> title - The title of the game
+<br> release_date - When the game was released 
+<br> team - The developers of the game
+<br> rating - What players rated the game
 times_listed - How long it took players to beat    
 number_of_reviews - The amount of reviews left by players 
 genres - what genre the game is in 
