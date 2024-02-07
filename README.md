@@ -26,20 +26,20 @@ There was no specific formula it was formatted to be easy to read and simple to 
 The data is validated through multiple people on Kaggle using the data to complete their own analysis on the data. However, the data is expected to never be updated.  
 
 ## What are the definitions for the column names? Include all columns in your dataset.​
-<br> x - The index of the variable 
-<br> title - The title of the game
-<br> release_date - When the game was released 
-<br> team - The developers of the game
-<br> rating - What players rated the game
-times_listed - How long it took players to beat    
-number_of_reviews - The amount of reviews left by players 
-genres - what genre the game is in 
-summary - A summary of the game 
-reviews- What the players thought about the game 
-plays - What are the number of people that have played the game 
-Playing - How many people are currently playing the game 
-backlogs - How many people have the game in their backlog 
-wishlist - How many people the game in their wishlist
+<br> X - The index of the variable 
+<br> Title - The title of the game
+<br> Release_date - When the game was released 
+<br> Team - The developers of the game
+<br> Rating - What players rated the game
+<br> Times_listed - How long it took players to beat    
+<br> Number_of_reviews - The amount of reviews left by players 
+<br> Genres - what genre the game is in 
+<br> Summary - A summary of the game 
+<br> Reviews- What the players thought about the game 
+<br> Plays - What are the number of people that have played the game 
+<br> Playing - How many people are currently playing the game 
+<br> Backlogs - How many people have the game in their backlog 
+<br> Wishlist - How many people the game in their wishlist
 
  
 ## If there are set variable options in your dataset, what are thier definitions? ​
