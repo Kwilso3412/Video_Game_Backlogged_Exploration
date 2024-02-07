@@ -31,7 +31,7 @@ The data is validated through multiple people on Kaggle using the data to comple
 <br> Team - The developers of the game
 <br> Rating - What players rated the game
 <br> Times_listed - How long it took players to beat    
-<br> Number_of_reviews - The amount of reviews left by players 
+ Number_of_reviews - The amount of reviews left by players 
 <br> Genres - what genre the game is in 
 <br> Summary - A summary of the game 
 <br> Reviews- What the players thought about the game 
