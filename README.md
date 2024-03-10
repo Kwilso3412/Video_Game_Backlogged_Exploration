@@ -12,12 +12,12 @@ There was no specific formula it was formatted to be easy to read and simple to 
 <br> Release_date - When the game was released 
 <br> Team - The developers of the game
 <br> Rating - What players rated the game
-<br> Times_listed - How long it took players to beat    
+<br> Times_listed - Number of players that listed the game 
  Number_of_reviews - The amount of reviews left by players 
 <br> Genres - what genre the game is in 
 <br> Summary - A summary of the game 
 <br> Reviews- What the players thought about the game 
-<br> Plays - What are the number of people that have played the game 
+<br> Plays - How many people have played the game 
 <br> Playing - How many people are currently playing the game 
 <br> Backlogs - How many people have the game in their backlog 
 <br> Wishlist - How many people the game in their wishlist
